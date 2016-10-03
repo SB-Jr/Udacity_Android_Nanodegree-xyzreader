@@ -1,0 +1,7 @@
+#Mon Oct 03 09:43:47 IST 2016
+base.0=/home/sbjr/myWorkspace/Eclipse_workspace/android/Udacity AND/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_ef084c8d6c478d2440287fa2d8f1f4f16fbc615d
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/sbjr/myWorkspace/Eclipse_workspace/android/Udacity AND/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4e19e581d5c944822baf22642b01e367870a22d8/classes.dex
+base.1=/home/sbjr/myWorkspace/Eclipse_workspace/android/Udacity AND/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4e19e581d5c944822baf22642b01e367870a22d8
+file.0=/home/sbjr/myWorkspace/Eclipse_workspace/android/Udacity AND/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_ef084c8d6c478d2440287fa2d8f1f4f16fbc615d/classes.dex
