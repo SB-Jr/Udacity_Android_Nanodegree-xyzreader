@@ -1658,6 +1658,9 @@
         <item name="android:colorPrimaryDark" ns1:targetApi="lollipop">@color/primary_dark</item>
         <item name="android:colorAccent" ns1:targetApi="lollipop">@color/accent</item>
         <item name="android:textColorPrimary" ns1:targetApi="lollipop">@color/text_color</item>
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryDark">@color/primary_dark</item>
+        <item name="colorAccent">@color/accent</item>
 
     </style>
     <style name="Platform.AppCompat" parent="android:Theme">

@@ -4,29 +4,29 @@
     density="xxhdpi"
     format="8"
     plugin-version="2.2.0"
-    timestamp="1370550779333"
+    timestamp="7776484520424"
     token="-5610680791694435320"
     verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="438" />
+        duration="2835" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="227" />
+        duration="651" />
     <task
         name="verifier"
-        duration="20" />
+        duration="15" />
 
     <artifact
         location="/home/sbjr/myWorkspace/Eclipse_workspace/android/Udacity AND/xyzreader/XYZReader/build/outputs/apk/XYZReader-debug.apk"
         type="MAIN" />
 
     <build
-        timestamp="1370550779333"
+        timestamp="7776484520424"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="/home/sbjr/myWorkspace/Eclipse_workspace/android/Udacity AND/xyzreader/XYZReader/build/outputs/apk/XYZReader-debug.apk"
