@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Thu Nov 10 19:27:26 IST 2016
+#Fri Nov 11 00:11:35 IST 2016
 210.set=ANDROID_RESOURCE
 14.set=ANDROID_RESOURCE
 180.file=/home/sbjr/myWorkspace/Eclipse_workspace/android/Udacity AND/xyzreader/XYZReader/build/intermediates/res/resources-debug.ap_/res/drawable/abc_list_selector_background_transition_holo_dark.xml
@@ -457,7 +457,7 @@ count=240
 66.base=/home/sbjr/myWorkspace/Eclipse_workspace/android/Udacity AND/xyzreader/XYZReader/build/intermediates/res/resources-debug.ap_
 218.base=/home/sbjr/myWorkspace/Eclipse_workspace/android/Udacity AND/xyzreader/XYZReader/build/intermediates/res/resources-debug.ap_
 87.file=/home/sbjr/myWorkspace/Eclipse_workspace/android/Udacity AND/xyzreader/XYZReader/build/intermediates/res/resources-debug.ap_/res/layout-v17/abc_alert_dialog_material.xml
-10.file=/home/sbjr/myWorkspace/Eclipse_workspace/android/Udacity AND/xyzreader/XYZReader/build/intermediates/res/resources-debug.ap_/res/layout-v17/fragment_article_detail.xml
+10.file=/home/sbjr/myWorkspace/Eclipse_workspace/android/Udacity AND/xyzreader/XYZReader/build/intermediates/res/resources-debug.ap_/res/layout-v21/activity_article_list.xml
 41.base=/home/sbjr/myWorkspace/Eclipse_workspace/android/Udacity AND/xyzreader/XYZReader/build/intermediates/res/resources-debug.ap_
 52.set=ANDROID_RESOURCE
 116.base=/home/sbjr/myWorkspace/Eclipse_workspace/android/Udacity AND/xyzreader/XYZReader/build/intermediates/res/resources-debug.ap_
@@ -521,7 +521,7 @@ count=240
 67.base=/home/sbjr/myWorkspace/Eclipse_workspace/android/Udacity AND/xyzreader/XYZReader/build/intermediates/res/resources-debug.ap_
 219.base=/home/sbjr/myWorkspace/Eclipse_workspace/android/Udacity AND/xyzreader/XYZReader/build/intermediates/res/resources-debug.ap_
 88.file=/home/sbjr/myWorkspace/Eclipse_workspace/android/Udacity AND/xyzreader/XYZReader/build/intermediates/res/resources-debug.ap_/res/drawable-xxhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png
-11.file=/home/sbjr/myWorkspace/Eclipse_workspace/android/Udacity AND/xyzreader/XYZReader/build/intermediates/res/resources-debug.ap_/res/layout-v21/activity_article_list.xml
+11.file=/home/sbjr/myWorkspace/Eclipse_workspace/android/Udacity AND/xyzreader/XYZReader/build/intermediates/res/resources-debug.ap_/res/layout-v17/fragment_article_detail.xml
 42.base=/home/sbjr/myWorkspace/Eclipse_workspace/android/Udacity AND/xyzreader/XYZReader/build/intermediates/res/resources-debug.ap_
 62.set=ANDROID_RESOURCE
 117.base=/home/sbjr/myWorkspace/Eclipse_workspace/android/Udacity AND/xyzreader/XYZReader/build/intermediates/res/resources-debug.ap_

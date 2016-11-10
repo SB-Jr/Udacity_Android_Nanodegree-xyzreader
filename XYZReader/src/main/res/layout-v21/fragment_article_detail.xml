@@ -46,7 +46,10 @@
                 android:layout_width="match_parent"
                 android:layout_height="?attr/actionBarSize"
                 android:minHeight="?attr/actionBarSize"
-                app:layout_scrollFlags="scroll|enterAlways"/>
+                android:paddingLeft="@dimen/toolbar_padding_start"
+                android:paddingStart="@dimen/toolbar_padding_start"
+                app:layout_collapseMode="pin"
+                app:layout_scrollFlags="scroll|enterAlways" />
 
         </android.support.design.widget.CollapsingToolbarLayout>
 
@@ -83,9 +86,11 @@
                     android:layout_gravity="bottom"
                     android:background="@color/text_color"
                     android:orientation="vertical"
+                    android:paddingBottom="@dimen/detail_metabar_title_bottom_padding"
                     android:paddingLeft="@dimen/detail_inner_horiz_margin"
                     android:paddingRight="@dimen/detail_inner_horiz_margin"
-                    android:paddingTop="@dimen/detail_metabar_vert_padding">
+                    android:paddingTop="@dimen/detail_metabar_vert_padding"
+                    android:layout_marginBottom="@dimen/detail_meta_bar_body_margin_bottom">
 
                     <TextView
                         android:id="@+id/article_title"
@@ -105,6 +110,7 @@
                         style="?android:attr/textAppearanceSmall"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
+                        android:layout_marginBottom="@dimen/card_subtitle_margin_bottom"
                         android:background="@android:color/transparent"
                         android:textColor="@android:color/white" />
                 </LinearLayout>
@@ -116,9 +122,9 @@
                     android:layout_height="wrap_content"
                     android:layout_marginLeft="@dimen/detail_inner_horiz_margin"
                     android:layout_marginRight="@dimen/detail_inner_horiz_margin"
+                    android:layout_marginTop="@dimen/detail_body_top_margin"
                     android:lineSpacingMultiplier="@fraction/detail_body_line_spacing_multiplier"
                     android:paddingBottom="@dimen/detail_body_bottom_margin"
-                    android:textColor="@color/ltgray"
                     android:textColorLink="@color/theme_accent"
                     android:textSize="@dimen/detail_body_text_size" />
 
@@ -131,16 +137,14 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="bottom|end"
-            android:background="@drawable/add_fab_background"
             android:layout_marginBottom="@dimen/fab_margin"
             android:layout_marginRight="@dimen/fab_margin"
             android:contentDescription="@string/action_share"
-            android:elevation="@dimen/fab_elevation"
-            android:translationZ="@dimen/fab_press_translation_z"
             android:src="@drawable/ic_share"
-            android:stateListAnimator="@animator/fab_state_list_anim"
+            app:elevation="@dimen/fab_elevation"
             app:fabSize="normal"
-            app:layout_anchor="@id/scrollview" />
+            app:layout_anchor="@id/scrollview"
+            app:pressedTranslationZ="@dimen/fab_press_translation_z" />
 
     </com.example.xyzreader.ui.DrawInsetsFrameLayout>
 </android.support.design.widget.CoordinatorLayout>

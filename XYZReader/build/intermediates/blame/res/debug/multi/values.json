@@ -2711,14 +2711,7 @@
                     "endOffset": 45770
                 },
                 "from": {
-                    "file": "/home/sbjr/myWorkspace/Eclipse_workspace/android/Udacity AND/xyzreader/XYZReader/src/main/res/values/dimens.xml",
-                    "position": {
-                        "startLine": 9,
-                        "startColumn": 4,
-                        "startOffset": 469,
-                        "endColumn": 64,
-                        "endOffset": 529
-                    }
+                    "file": "/home/sbjr/myWorkspace/Eclipse_workspace/android/Udacity AND/xyzreader/XYZReader/src/main/res/values/dimens.xml"
                 }
             },
             {
@@ -2994,7 +2987,14 @@
                     "endOffset": 47251
                 },
                 "from": {
-                    "file": "/home/sbjr/myWorkspace/Eclipse_workspace/android/Udacity AND/xyzreader/XYZReader/src/main/res/values/dimens.xml"
+                    "file": "/home/sbjr/myWorkspace/Eclipse_workspace/android/Udacity AND/xyzreader/XYZReader/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 631,
+                        "endColumn": 52,
+                        "endOffset": 679
+                    }
                 }
             },
             {
