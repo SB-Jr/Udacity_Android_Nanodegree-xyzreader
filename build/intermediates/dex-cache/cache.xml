@@ -169,7 +169,7 @@
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="24f3574e99d5de46559f0364dedb12bfeb5462e0">
+        sha1="47cf71753c17e15ccd81a1d41cdca3d5ce1dfcf7">
         <dex dex="/home/sbjr/myWorkspace/Eclipse_workspace/android/Udacity AND/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_ef084c8d6c478d2440287fa2d8f1f4f16fbc615d/classes.dex" />
     </item>
     <item
@@ -223,7 +223,7 @@
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="e86abeecf0115048723b4530d3ea81e2630d0267">
+        sha1="af36c0f94e658559f927cffdf088d5f2baf04121">
         <dex dex="/home/sbjr/myWorkspace/Eclipse_workspace/android/Udacity AND/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4e19e581d5c944822baf22642b01e367870a22d8/classes.dex" />
     </item>
     <item

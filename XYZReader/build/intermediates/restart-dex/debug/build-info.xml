@@ -4,46 +4,33 @@
     density="xxhdpi"
     format="8"
     plugin-version="2.2.0"
-    timestamp="18053857974342"
+    timestamp="1370550779333"
     token="-5610680791694435320"
-    verifier="COLD_SWAP_REQUESTED" >
+    verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="0" />
+        duration="438" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="227" />
     <task
         name="verifier"
-        duration="0" />
+        duration="20" />
+
+    <artifact
+        location="/home/sbjr/myWorkspace/Eclipse_workspace/android/Udacity AND/xyzreader/XYZReader/build/outputs/apk/XYZReader-debug.apk"
+        type="MAIN" />
 
     <build
-        timestamp="17395787312021"
-        verifier="BINARY_MANIFEST_FILE_CHANGE" >
+        timestamp="1370550779333"
+        verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="/home/sbjr/myWorkspace/Eclipse_workspace/android/Udacity AND/xyzreader/XYZReader/build/outputs/apk/XYZReader-debug.apk"
             type="MAIN" />
     </build>
-    <build
-        timestamp="17755211621057"
-        verifier="COLD_SWAP_REQUESTED" >
-        <artifact
-            location="/home/sbjr/myWorkspace/Eclipse_workspace/android/Udacity AND/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3/classes.dex"
-            type="DEX" />
-    </build>
-    <build
-        timestamp="18039788781125"
-        verifier="COLD_SWAP_REQUESTED" >
-        <artifact
-            location="/home/sbjr/myWorkspace/Eclipse_workspace/android/Udacity AND/xyzreader/XYZReader/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
-            type="RESOURCES" />
-    </build>
-    <build
-        timestamp="18053857974342"
-        verifier="COLD_SWAP_REQUESTED" />
 
 </instant-run>

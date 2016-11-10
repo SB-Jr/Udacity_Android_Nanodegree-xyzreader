@@ -6,11 +6,14 @@
     <dimen name="detail_image_height">400dp</dimen>
     <dimen name="detail_image_title_start">64dp</dimen>
     <dimen name="detail_body_elevation">2dp</dimen>
+    <dimen name="detail_subtitle_botttom_padding">8dp</dimen>
     <item name="detail_title_line_spacing_multiplier" format="float" type="fraction">0.9</item>
 
+    <dimen name="toolbar_padding_start">64dp</dimen>
+
     <!-- fab -->
-    <dimen name="fab_elevation">2dp</dimen>
-    <dimen name="fab_press_translation_z">6dp</dimen>
+    <dimen name="fab_elevation">6dp</dimen>
+    <dimen name="fab_press_translation_z">12dp</dimen>
     <dimen name="fab_margin">24dp</dimen>
 
     <!-- card -->
