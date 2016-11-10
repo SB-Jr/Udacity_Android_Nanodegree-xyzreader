@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Thu Nov 10 19:19:59 IST 2016
+#Thu Nov 10 19:27:26 IST 2016
 210.set=ANDROID_RESOURCE
 14.set=ANDROID_RESOURCE
 180.file=/home/sbjr/myWorkspace/Eclipse_workspace/android/Udacity AND/xyzreader/XYZReader/build/intermediates/res/resources-debug.ap_/res/drawable/abc_list_selector_background_transition_holo_dark.xml
